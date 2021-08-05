@@ -1,0 +1,25 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 180px;
+  margin: 15px;
+  padding: 5px;
+  box-shadow: 0px 2px 3px 0px rgb(160, 160, 160);
+}
+
+.avatar {
+  width: 70px;
+}
+
+.status {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  /* background-color: red; */
+}
+
+.isOnline {
+  background-color: rgb(255, 0, 0);
+}

@@ -1,0 +1,22 @@
+.transactionHistory {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 3px 0 grey;
+}
+
+.cell {
+  width: 150px;
+  height: 50px;
+  outline: 1px solid #000000;
+  text-align: center;
+}
+
+.cellTh {
+  width: 150px;
+  height: 50px;
+  outline: 1px solid #000000;
+  text-align: center;
+  background-color: rgb(11, 234, 241);
+  color: #fff;
+}

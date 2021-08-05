@@ -1,0 +1,24 @@
+.statList {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.item {
+  width: 80px;
+  height: 80px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  background-color: rgb(238, 236, 236);
+}
+
+.label {
+  display: block;
+}
+
+.percentage {
+  display: block;
+}
